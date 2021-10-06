@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AveryMadness
-- 👀 I’m interested in Kia
-- 🌱 I’m currently learning JavaScript, Haxe
-- 💞️ I’m looking to collaborate on literally nothing lol i work alone
-- 📫 How to reach me your mother
+- Hi, I’m @AveryMadness
+- I’m interested in @AyeItsAxi lmao
+- I’m currently learning JavaScript and Haxe
+- I’m looking to collaborate on literally nothing lol i work alone and with axi
+- you can reach me by calling your mother lmao
 
 <!---
-AveryMadness/AveryMadness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+love you kia
 --->
