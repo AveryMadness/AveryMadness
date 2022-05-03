@@ -4,7 +4,7 @@
 - I’m looking to collaborate on literally nothing lol i work alone and with axi
 - you can reach me by calling your mother lmao
 
-[![me github stats](https://github-readme-stats.vercel.app/api?username=AveryMadness&show_icons=true&theme=slatered
+[![me github stats](https://github-readme-stats.vercel.app/api?username=AveryMadness&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 
   
