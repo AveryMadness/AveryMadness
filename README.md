@@ -26,7 +26,7 @@ I actively contribute to various projects and enjoy working with others to impro
 
 ## Contact
 
-You can reach me via email at averymadness62@gmail.com. I'm open to discussing new opportunities, and collaborations, or answering any questions you may have. Let's connect!
+You can reach me via email at contact@averymadness.me. I'm open to discussing new opportunities, and collaborations, or answering any questions you may have. Let's connect!
 
 ## License
 
