@@ -1,7 +1,7 @@
 # AveryMadness
 
 ## About Me
-- **Website**: [Personal Website](https://averymadness.me)
+- **Website**: [Personal Website](https://averymadness.tech/site)
 - **Twitter**: [Twitter Profile](https://twitter.com/AveryMadness)
 
 I have a diverse range of interests within the field of software development, including web development, reverse engineering, and open-source projects. I enjoy collaborating with others and learning from many communities.
@@ -15,6 +15,10 @@ This repository contains the code for my first real project, Raider. It is a mod
 ### 2. [Satellite](https://github.com/AveryMadness/Satellite)
 
 This repository contains the current project I am working on. A Fortnite game server, using the knowledge I learned from working on Raider, and other projects. It is early in development, and likely won't be released any time soon, but it is what I am currently working on and maintaining.
+
+### 3. [Item Game](https://github.com/ItemGame/ItemGame)
+
+Item Game is a very early prototype of the game I am currently working on. It is extremely early development, and likely won't even retain this name.
 
 ## Contributions
 
