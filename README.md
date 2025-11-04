@@ -1,22 +1,24 @@
 # AveryMadness
 
 ## About Me
-- **Website**: [Personal Website](https://averymadness.tech/site)
-- **Twitter**: [Twitter Profile](https://twitter.com/AveryMadness)
 
 I have a diverse range of interests within the field of software development, including web development, reverse engineering, and open-source projects. I enjoy collaborating with others and learning from many communities.
 
 ## Notable Repositories
 
-### 1. [Raider](https://github.com/AveryMadness/raider)
+### 1. [Friday Night Funkin' Corruption: Insanity](https://github.com/Funkin-Insanity-Team/Funkin-Insanity/) (Private)
 
-This repository contains the code for my first real project, Raider. It is a modification of the [raider3.5](https://github.com/kem0x/raider3.5) Fortnite game server, designed to add more features and ideas to the original code. 
+This repository contains the source code for the Friday Night Funkin' mod "Friday Night Funkin' Corruption: Insanity". It is full of my contributions, as I have been the main programmer for around 3-4 years.
 
-### 2. [Satellite](https://github.com/AveryMadness/Satellite)
+### 2. [Satellite](https://github.com/satelliteFn/satellite) (Private)
 
-This repository contains the current project I am working on. A Fortnite game server, using the knowledge I learned from working on Raider, and other projects. It is early in development, and likely won't be released any time soon, but it is what I am currently working on and maintaining.
+This repository contains the source code for the Fortnite mod "Satellite". It is a reimplementation of the server code for Fortnite (Specifically version 9.10). It was created in an attempt to restore functionality to older versions of the game.
 
-### 3. [Item Game](https://github.com/ItemGame/ItemGame)
+### 3. [Kotek](https://github.com/kyiro/kotek) (Private)
+
+This repository contains the source code for the backend service "Kotek". It is a couterpart to Satellite, and was created to restore the frontend/client functionality of older versions of fortnite, and to connect with the game server.
+
+### 4. [Item Game](https://github.com/ItemGame/ItemGame) (Private)
 
 Item Game is a very early prototype of the game I am currently working on. It is extremely early development, and likely won't even retain this name.
 
@@ -30,7 +32,7 @@ I actively contribute to various projects and enjoy working with others to impro
 
 ## Contact
 
-You can reach me via email at contact@averymadness.me. I'm open to discussing new opportunities, and collaborations, or answering any questions you may have. Let's connect!
+You can reach me via email at averyfd@shaw.ca. I'm open to discussing new opportunities, and collaborations, or answering any questions you may have. Let's connect!
 
 ## License
 
