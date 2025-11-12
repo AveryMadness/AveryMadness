@@ -6,19 +6,23 @@ I have a diverse range of interests within the field of software development, in
 
 ## Notable Repositories
 
-### 1. [Friday Night Funkin' Corruption: Insanity](https://github.com/Funkin-Insanity-Team/Funkin-Insanity/) (Private)
+### 1. [GBEmu](https://github.com/AveryMadness/GBEmu) (Private)
+
+This repository contains the source code for the C# Program GBEmu. A simple emulator for the Nintendo Game Boy. 
+
+### 2. [Friday Night Funkin' Corruption: Insanity](https://github.com/Funkin-Insanity-Team/Funkin-Insanity/) (Private)
 
 This repository contains the source code for the Friday Night Funkin' mod "Friday Night Funkin' Corruption: Insanity". It is full of my contributions, as I have been the main programmer for around 3-4 years.
 
-### 2. [Satellite](https://github.com/satelliteFn/satellite) (Private)
+### 3. [Satellite](https://github.com/satelliteFn/satellite) (Private)
 
 This repository contains the source code for the Fortnite mod "Satellite". It is a reimplementation of the server code for Fortnite (Specifically version 9.10). It was created in an attempt to restore functionality to older versions of the game.
 
-### 3. [Kotek](https://github.com/kyiro/kotek) (Private)
+### 4. [Kotek](https://github.com/kyiro/kotek) (Private)
 
 This repository contains the source code for the backend service "Kotek". It is a couterpart to Satellite, and was created to restore the frontend/client functionality of older versions of fortnite, and to connect with the game server.
 
-### 4. [Item Game](https://github.com/ItemGame/ItemGame) (Private)
+### 5. [Item Game](https://github.com/ItemGame/ItemGame) (Private)
 
 Item Game is a very early prototype of the game I am currently working on. It is extremely early development, and likely won't even retain this name.
 
