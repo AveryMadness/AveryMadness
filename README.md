@@ -6,7 +6,7 @@ I have a diverse range of interests within the field of software development, in
 
 ## Notable Repositories
 
-### 1. [GBEmu](https://github.com/AveryMadness/GBEmu) (Private)
+### 1. [GBEmu](https://github.com/AveryMadness/GBEmu) (Public)
 
 This repository contains the source code for the C# Program GBEmu. A simple emulator for the Nintendo Game Boy. 
 
