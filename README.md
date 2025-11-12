@@ -27,7 +27,6 @@ Item Game is a very early prototype of the game I am currently working on. It is
 I actively contribute to various projects and enjoy working with others to improve the software development community. If you have any suggestions or ideas, feel free to let me know.
 
 ## Some Statistics
-[![AveryMadness' GitHub stats](https://github-readme-stats.vercel.app/api?username=AveryMadness&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMadness&theme=aura_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
